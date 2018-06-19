@@ -1,3 +1,8 @@
 Title.create({Emp_No: 11111, Job_Title:"Boss-man"})
 Title.create({Emp_No: 22222, Job_Title:"Peon"})
 Title.create({Emp_No: 33333, Job_Title:"Wizard"})
+Employee.create({Emp_No: 1, First_Name:"Joe"})
+Employee.create({Emp_No: 2, First_Name:"Terrence"})
+Employee.create({Emp_No: 3, First_Name:"David"})
+Employee.create({Emp_No: 4, First_Name:"Joshua"})
+Employee.create({Emp_No: 5, First_Name:"Musa"})
